@@ -9,6 +9,9 @@ public class myclass {
 		System.out.println("then add this to jenkins");
 		System.out.println("Added by Sunil");
 		
+		System.out.println("Added by Sunil1");
+		System.out.println("Added by Sunil2");
+		
 		
 	}
 
